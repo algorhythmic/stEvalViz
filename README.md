@@ -6,5 +6,5 @@
 1. Install Python
 2. Install [Poetry](https://python-poetry.org/docs/#installation)
 3. Run `poetry install` in the project directory
-4. Run `poetry shell` and then `python main.py` to launch the app
+4. Run `poetry shell` and then `streamlit run main.py` to launch the app
 5. Choose a file to examine
